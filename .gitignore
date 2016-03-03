@@ -1,5 +1,6 @@
 
 _/
+src/javascript/
 src/python/sketches/output/
 src/python/config/config.json
 src/javascript/sketches/data/*
